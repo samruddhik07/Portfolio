@@ -1,36 +1,42 @@
-# Samruddhi Karale — Placement Portfolio
+# Samruddhi Karale – Placement Portfolio
 
-Responsive React + Vite portfolio.
+A personal portfolio website showcasing my skills, projects, internship experience, and achievements as a Final-Year Electronics and Telecommunication Engineering student.
 
-## Run in VS Code
-1. Install Node.js LTS.
-2. Extract this ZIP and open the folder in VS Code.
-3. Open Terminal and run:
+## Live Portfolio
+[View Portfolio]
 
+## About Me
+I am an engineering student interested in software development, backend engineering, and AI-driven applications. I enjoy building practical solutions and continuously learning new technologies.
+
+## Tech Stack
+- Java, JavaScript
+- Spring Boot, React
+- PostgreSQL, MySQL
+- Git, GitHub, Postman
+- HTML, CSS
+
+## Featured Projects
+- **AI Snag Detection System** – AI-based application for identifying and managing snags.
+- **SafeWalk** – Application focused on improving personal safety.
+- **Katathon** – Project developed as part of a hackathon.
+
+## Experience
+- DRDO – Internship
+- TomTom – Internship
+- ITWIZZ – Internship
+
+## Run Locally
 ```bash
+git clone YOUR_GITHUB_REPOSITORY_URL
+cd samruddhi-placement-portfolio
 npm install
 npm run dev
 ```
 
-4. Open the local URL Vite displays (usually http://localhost:5173).
+## Contact
+- LinkedIn: https://www.linkedin.com/in/samruddhi07karale
+- GitHub: https://github.com/samruddhik07
+- Email: samruddhikarale877@gmail.com
 
-## Build
-```bash
-npm run build
-```
-
-## Deploy on Vercel
-1. Push the folder to a GitHub repository.
-2. Import that repository in Vercel.
-3. Framework: Vite; build command: `npm run build`; output folder: `dist`.
-4. Deploy.
-
-## Verify before publishing
-- Confirm DRDO internship dates and that “Present” is still correct.
-- Check project links and update any that have changed.
-- Add public GitHub links for individual projects if available.
-- Add a resume PDF to `public/` if you want to offer a downloadable copy.
-- Confirm that all listed skills accurately reflect what you can explain in an interview.
-- Keep DRDO project details high-level and non-confidential.
-
-Edit `src/main.jsx` to update your profile, skills, internships, projects, education and contact details.
+---
+© 2026 Samruddhi Karale
