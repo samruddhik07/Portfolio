@@ -3,7 +3,7 @@
 A personal portfolio website showcasing my skills, projects, internship experience, and achievements as a Final-Year Electronics and Telecommunication Engineering student.
 
 ## Live Portfolio
-[View Portfolio]
+[View Portfolio](https://portfolio7-three-dun.vercel.app/)
 
 ## About Me
 I am an engineering student interested in software development, backend engineering, and AI-driven applications. I enjoy building practical solutions and continuously learning new technologies.
